@@ -9,7 +9,3 @@ En este taller veremos como utilizar comandos de GIT para la resolución de prob
 - Git.
 - Editor de texto.
 - Usuario Gitlab y Github.
-
-## Desarrollo
-
-Imagina que te piden culminar de escribir 
